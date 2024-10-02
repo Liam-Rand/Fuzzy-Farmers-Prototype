@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=Td_oSbTSQo4
 <br/>
 
 <p float="left">
-  <img src="Screenshots/FuzzyFarmers.png" width="49%" />
+  <img src="Screenshots/FuzzyFarmers.PNG" width="49%" />
   <img src="Screenshots/ScreenShot00000.png" width="49%" />
 </p>
 <p float="left">
