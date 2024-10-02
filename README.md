@@ -1,4 +1,4 @@
-![](FuzzyFarmersPrototypeTitle.png)
+![](FuzzyFarmersTitle.png)
 
 <br />
 
