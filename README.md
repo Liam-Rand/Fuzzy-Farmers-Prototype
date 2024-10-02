@@ -46,23 +46,19 @@ https://www.youtube.com/watch?v=Td_oSbTSQo4
 <br />
 
 <p float="left">
-  <img src="Screenshots/HighresScreenshot00000.png" width="51%" />
-  <img src="Screenshots/Screenshot 2023-12-14 015848.png" width="47%" />
+  <img src="Screenshots/Screenshot 2023-12-07 022325.png" width="51%" />
+  <img src="Screenshots/Screenshot 2023-12-07 022147.png" width="47%" />
 </p>
 <p float="left">
-  <img src="Screenshots/Screenshot 2023-12-14 015917.png" width="49%" />
-  <img src="Screenshots/Screenshot 2023-12-14 015942.png" width="49%" />
+  <img src="Screenshots/Screenshot 2023-12-07 022223.png" width="49%" />
+  <img src="Screenshots/Screenshot 2023-12-07 022249.png" width="49%" />
 </p>
 <p float="left">
-  <img src="Screenshots/Screenshot 2023-12-14 020007.png" width="49%" />
-  <img src="Screenshots/Screenshot 2023-12-14 020039.png" width="49%" />
-</p>
-<p float="left">
-  <img src="Screenshots/Screenshot 2023-12-14 020100.png" width="49%" />
-  <img src="Screenshots/Screenshot 2023-12-14 020127.png" width="49%" />
+  <img src="Screenshots/Screenshot 2023-12-07 022549.png" width="49%" />
+  <img src="Screenshots/Screenshot 2023-12-07 022625.png" width="49%" />
 </p>
 <p align="center">
-  <img src="Screenshots/Screenshot 2023-12-14 020127.png" width="49%" />
+  <img src="Screenshots/Screenshot 2023-12-07 022641.png" width="49%" />
 </p>
 
 <details open> 
