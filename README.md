@@ -14,6 +14,7 @@ As the player, your goal in the game is to explore the map and locate/collect th
 There are two game modes available! The first one, collect, requires you to collect specified fuzzies within the time limit. The second game mode, sort, requires you to pick up a fuzzy and return it to its corresponding barn, based on color.
 
 https://www.youtube.com/watch?v=QFDmlsevEIg
+
 https://www.youtube.com/watch?v=Td_oSbTSQo4
 </details>
 
