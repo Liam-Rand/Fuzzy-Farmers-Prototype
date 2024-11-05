@@ -17,6 +17,10 @@ There are two game modes available! The first one, collect, requires you to coll
 https://www.youtube.com/watch?v=QFDmlsevEIg
 
 https://www.youtube.com/watch?v=Td_oSbTSQo4
+
+<h2>📦 Project Repository</h2>
+This project was originally created using Bitbucket for source control!
+To can access the original repository here: https://bitbucket.org/Liam_Rand/rand_fuzzyfarmersportfolio/src/master/
 </details>
 
 <br/>
